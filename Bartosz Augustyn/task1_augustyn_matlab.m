@@ -1,8 +1,9 @@
 %% File paths for the data
-ndvi_spring = 't2_ndvi2024.tif';
-ndvi_summer = 't2_ndvi2023.tif';
-temp_spring = 't2_lst2024.tif';
-temp_summer = 't2_lst2023.tif';
+ndvi_spring = 't2_ndvi2024_Jul_Aug.tif';
+ndvi_summer = 't2_ndvi2023May.tif';
+temp_spring = 't2_lst2024_Jul_Aug.tif';
+temp_summer = 't2_lst2023May.tif';
+
 
 % Function to read a tif file
 function data = read_tif(filepath)
