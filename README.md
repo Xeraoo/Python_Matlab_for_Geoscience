@@ -12,7 +12,12 @@ This repository contains the code and resources for Group 3's Python projects fo
 
 ## Task 1 - Hubert Dębowski
 Python
+
 Matlab
+![image](https://github.com/user-attachments/assets/b9fcf6a7-ae8b-4ac2-8127-13f6ce2da655)
+![image](https://github.com/user-attachments/assets/58b8b19d-6314-475a-9f12-a890820e3e16)
+![image](https://github.com/user-attachments/assets/fd698591-f605-4b6b-ac3e-e9628382ab78)
+
 
 ## Task 3: Classification Accuracy - Tymoteusz Maj
 
