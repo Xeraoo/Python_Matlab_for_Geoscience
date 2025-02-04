@@ -1,0 +1,54 @@
+// Downloading images for task 3 using GEE
+
+// Wczytanie granic GZM
+var GZMBoundaries = ee.FeatureCollection("users/tymoteuszmaj/GZM");
+
+// Pobranie obrazu Sentinel-2 z wszystkimi kanałami
+var sentinel2 = ee.ImageCollection("COPERNICUS/S2")
+    .filterBounds(GZMBoundaries)
+    .filterDate("2023-01-01", "2023-12-31")
+    .sort("CLOUD_COVER")
+    .first()
+    .select(["B1", "B2", "B3", "B4", "B5", "B6", "B7", "B8", "B8A", "B9", "B11", "B12"]); // Wszystkie 12 kanałów
+
+// Pobranie danych LULC (np. z ESA WorldCover 2021)
+var lulc = ee.Image("ESA/WorldCover/v200/2021").clip(GZMBoundaries);
+
+// Wizualizacja Sentinel-2 (Red, Green, Blue)
+var visParams = {
+    bands: ["B4", "B3", "B2"],
+    min: 0,
+    max: 3000,
+    gamma: 1.4
+};
+
+// Wizualizacja LULC
+var lulcVis = {
+    min: 10,
+    max: 100,
+    palette: ["05450a", "086a10", "54a708", "78d203", "009900"]
+};
+
+// Dodanie warstw do mapy
+Map.centerObject(GZMBoundaries, 10);
+Map.addLayer(sentinel2, visParams, "Sentinel-2 (RGB)");
+Map.addLayer(lulc, lulcVis, "LULC 2021");
+Map.addLayer(GZMBoundaries, {color: "red"}, "GZM Boundaries");
+
+// Eksport obrazu Sentinel-2 do Dysku Google
+Export.image.toDrive({
+    image: sentinel2,
+    description: 'Sentinel2_GZM_AllBands',
+    scale: 10,
+    region: GZMBoundaries.geometry().bounds(),
+    fileFormat: 'GeoTIFF'
+});
+
+// Eksport obrazu LULC do Dysku Google
+Export.image.toDrive({
+    image: lulc,
+    description: 'LULC_GZM',
+    scale: 10,
+    region: GZMBoundaries.geometry().bounds(),
+    fileFormat: 'GeoTIFF'
+});
