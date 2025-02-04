@@ -6,8 +6,8 @@ Repository created for a credit exam in the course Python, Matlab for Geoscience
 
 | Name     | Surname  | Role            |
 |----------|-----------|--------------------|
-| Bartosz     | Augustyn  | Leader |
-| Tymoteusz   | Maj     | xxx |
+| Bartosz     | Augustyn  | xxx |
+| Tymoteusz   | Maj     | Leader |
 | Hubert    | Dębowski | xxx |
 | Michał| Walencik    | xxx |
 | Kaushika | Eluwawalage | xxx |
