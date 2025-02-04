@@ -2,6 +2,8 @@
 ![](https://www.agh.edu.pl/repozytoria/__processed__/a/2/csm_agh_znak_negatyw_bez_nazwy_1558c4077f.webp)
 This repository contains the code and resources for Group 3's Python projects for the Master's II semester.
 
+Due to the nature of the exam, below are sample solutions to the specific tasks. Individual results are located in students folders.
+
 | Name     | Surname  | Funcion            |
 |----------|-----------|--------------------|
 | Bartosz     | Augustyn  | Programmer |
@@ -23,6 +25,10 @@ Matlab
 ![image](https://github.com/user-attachments/assets/58b8b19d-6314-475a-9f12-a890820e3e16)
 ![image](https://github.com/user-attachments/assets/fd698591-f605-4b6b-ac3e-e9628382ab78)
 
+## Task 2: DEM analysis - Bartosz Augustyn
+Sample statistics for DEM and point cloud height difference 
+
+![obraz](https://github.com/user-attachments/assets/3991d5d7-9924-4f52-9305-004a5b8a10a8)
 
 ## Task 3: Classification Accuracy - Tymoteusz Maj
 
