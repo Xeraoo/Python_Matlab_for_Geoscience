@@ -10,4 +10,4 @@ Repository created for a credit exam in the course Python, Matlab for Geoscience
 | Tymoteusz   | Maj     | xxx |
 | Hubert    | Dębowski | xxx |
 | Michał| Walencik    | xxx |
-| Kaushika| Madushani| xxx |
+| Kaushika | Eluwawalage | xxx |
