@@ -57,3 +57,47 @@ After running the process, I obtained the following result:
 
 ![Result](https://github.com/user-attachments/assets/975daab9-3a68-40d1-ae61-49e1fb3a38da)
 
+# Raport
+
+## Hubert Dębowski
+**Folder**: Hubert_Debowski  
+- `data_task1` - folder z danymi  
+- `task1_debowski.py` - Task 1 w Pythonie  
+- `task1_debowski_matlab.m` - Task 1 w Matlabie  
+- `task2.ipynb` - Task 2 w Pythonie  
+- `test.txt` - plik testowy  
+
+---
+
+## Bartosz Augustyn
+**Folder**: Bartosz Augustyn  
+- `task1_augustyn_python.ipynb` - Task 1 w Pythonie  
+- `task1_augustyn_matlab.m` - Task 1 w Matlabie  
+- `task2_augustyn.ipynb` - Task 2 w Pythonie  
+- `test.txt` - plik testowy  
+
+---
+
+## Michał Walencik
+**Folder**: Michał Walencik  
+- `Task1.py` - Task 1 w Pythonie  
+- `Task1.m` - Task 1 w Matlabie  
+- `Task2.py` - Task 2 w Pythonie  
+- `test.txt` - plik testowy  
+
+---
+
+## Kaushika Madushani
+**Folder**: Michał Walencik  
+- `t1image.py` - Task 1 w Pythonie  
+- `matlabexam.m` - Task 1 w Matlabie  
+- `test.txt` - plik testowy  
+
+---
+
+## Tymoteusz Maj
+**Folder**: Tymoteusz Maj/Task3_TM  
+- `Download_GEE.txt` - kod w GEE  
+- `accuracy.py` - Task 3 w Pythonie  
+- `result_task3.jpg` - obrazek z wynikiem  
+- `task3.py` - Task 3 w Pythonie  
