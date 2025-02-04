@@ -10,6 +10,9 @@ This repository contains the code and resources for Group 3's Python projects fo
 | Michał| Walencik    | Programmer |
 | Kaushika    | Madushani|   Impostor         |
 
+## Task 1 - Hubert Dębowski
+Python
+Matlab
 
 ## Task 3: Classification Accuracy - Tymoteusz Maj
 
