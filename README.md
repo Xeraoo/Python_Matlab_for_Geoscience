@@ -27,4 +27,5 @@ At the beginning of Task 3, we created code in GEE that retrieves a SENTINEL 2 i
 ![image](https://github.com/user-attachments/assets/24893b5c-be21-48db-9029-82e3cd36a986)
 
 
-The process turned out to be longer than I anticipated, as it took: 
+The process turned out to be longer than I expected, as it took more than 20 minutes: 
+![image](https://github.com/user-attachments/assets/e49c9295-016a-4ae9-81ae-4b9fba720014)
