@@ -12,6 +12,8 @@ This repository contains the code and resources for Group 3's Python projects fo
 
 ## Task 1 - Hubert Dębowski
 Python
+![image](https://github.com/user-attachments/assets/2a0a85b2-23da-4e0d-bc32-e65685704ec4)
+![image](https://github.com/user-attachments/assets/f704b278-5ac8-4c0e-b402-be09d4425b52)
 
 Matlab
 ![image](https://github.com/user-attachments/assets/b9fcf6a7-ae8b-4ac2-8127-13f6ce2da655)
