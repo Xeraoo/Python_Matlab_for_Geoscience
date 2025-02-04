@@ -4,10 +4,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Ścieżki do plików TIFF
-ndvi_spring_path = "t3_ndvi2024May.tif"
-ndvi_summer_path = "t3_ndvi2023_Jul_Aug.tif"
-temp_spring_path = "t3_lst2024May.tif"
-temp_summer_path = "t3_lst2023_Jul_Aug.tif"
+ndvi_spring_path = r"C:\EGZ\taks1\t3_ndvi2024May.tif"
+ndvi_summer_path = r"C:\EGZ\taks1\t3_ndvi2023_Jul_Aug.tif"
+temp_spring_path = r"C:\EGZ\taks1\t3_lst2024May.tif"
+temp_summer_path = r"C:\EGZ\taks1\t3_lst2023_Jul_Aug.tif"
 
 # Funkcja do wczytania danych z pliku TIFF
 def read_tif(filepath):
