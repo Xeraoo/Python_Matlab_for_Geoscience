@@ -15,7 +15,7 @@ Python
 ![image](https://github.com/user-attachments/assets/2a0a85b2-23da-4e0d-bc32-e65685704ec4)
 ![image](https://github.com/user-attachments/assets/f704b278-5ac8-4c0e-b402-be09d4425b52)
 <img width="1194" alt="image" src="https://github.com/user-attachments/assets/b296ad33-cdb1-4aae-9fb2-edd98c46488f" />
-![Uploading image.png…]()
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/0c213478-f0ef-432b-ab01-65a3ce6ca59d" />
 
 
 Matlab
