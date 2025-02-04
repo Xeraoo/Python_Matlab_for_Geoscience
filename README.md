@@ -57,47 +57,48 @@ After running the process, I obtained the following result:
 
 ![Result](https://github.com/user-attachments/assets/975daab9-3a68-40d1-ae61-49e1fb3a38da)
 
-# Raport
+# Report
 
 ## Hubert Dębowski
 **Folder**: Hubert_Debowski  
-- `data_task1` - folder z danymi  
-- `task1_debowski.py` - Task 1 w Pythonie  
-- `task1_debowski_matlab.m` - Task 1 w Matlabie  
-- `task2.ipynb` - Task 2 w Pythonie  
-- `test.txt` - plik testowy  
+- `data_task1` - data folder  
+- `task1_debowski.py` - Task 1 in Python  
+- `task1_debowski_matlab.m` - Task 1 in Matlab  
+- `task2.ipynb` - Task 2 in Python  
+- `test.txt` - test file  
 
 ---
 
 ## Bartosz Augustyn
 **Folder**: Bartosz Augustyn  
-- `task1_augustyn_python.ipynb` - Task 1 w Pythonie  
-- `task1_augustyn_matlab.m` - Task 1 w Matlabie  
-- `task2_augustyn.ipynb` - Task 2 w Pythonie  
-- `test.txt` - plik testowy  
+- `task1_augustyn_python.ipynb` - Task 1 in Python  
+- `task1_augustyn_matlab.m` - Task 1 in Matlab  
+- `task2_augustyn.ipynb` - Task 2 in Python  
+- `test.txt` - test file  
 
 ---
 
 ## Michał Walencik
 **Folder**: Michał Walencik  
-- `Task1.py` - Task 1 w Pythonie  
-- `Task1.m` - Task 1 w Matlabie  
-- `Task2.py` - Task 2 w Pythonie  
-- `test.txt` - plik testowy  
+- `Task1.py` - Task 1 in Python  
+- `Task1.m` - Task 1 in Matlab  
+- `Task2.py` - Task 2 in Python  
+- `test.txt` - test file  
 
 ---
 
 ## Kaushika Madushani
 **Folder**: Michał Walencik  
-- `t1image.py` - Task 1 w Pythonie  
-- `matlabexam.m` - Task 1 w Matlabie  
-- `test.txt` - plik testowy  
+- `t1image.py` - Task 1 in Python  
+- `matlabexam.m` - Task 1 in Matlab  
+- `test.txt` - test file  
 
 ---
 
 ## Tymoteusz Maj
 **Folder**: Tymoteusz Maj/Task3_TM  
-- `Download_GEE.txt` - kod w GEE  
-- `accuracy.py` - Task 3 w Pythonie  
-- `result_task3.jpg` - obrazek z wynikiem  
-- `task3.py` - Task 3 w Pythonie  
+- `Download_GEE.txt` - code in GEE  
+- `accuracy.py` - Task 3 in Python  
+- `result_task3.jpg` - image with result  
+- `task3.py` - Task 3 in Python  
+
